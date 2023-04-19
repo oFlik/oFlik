@@ -3,7 +3,7 @@
 
 Ainda estou no começo de minha caminhada na programação, por isso ainda está meio vazio por aqui, mas acredito que com o tempo esta pagina irá ficar bem populada! (Espero)
 
-<img align='right' src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="Bat" style="width:25%">
+<img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:25%">
 
 🌱 No momento estou aprendendo e reforçando os básicos 🌱
 - Lógica de programação
