@@ -4,7 +4,7 @@ style="width:265px;height:280px;">
 <img src="https://i.pinimg.com/originals/a0/dc/5f/a0dc5f8fc33cd8fd01d26c8f203d0b1c.gif"
 style="width:265px;height:280px;">
 <img src="https://i.pinimg.com/originals/d7/f7/b4/d7f7b412e83188359a9e40dbebfbce3d.gif"
-style="width:2650px;height:280px;scaleX(-1);">
+style="width:265px;height:280px;scaleX(-1);">
 
 
 <!--
