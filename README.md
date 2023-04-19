@@ -1,24 +1,22 @@
+# Hello world! 👋
+### Fico feliz em te ver por aqui! 
+
+Ainda estou no começo de minha caminhada na programação, por isso ainda está meio vazio por aqui, mas acredito que com o tempo esta pagina irá ficar bem populada! (Espero)
+
+<img align='right' src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif" alt="Bat" style="width:25%">
+
+🌱 No momento estou aprendendo e reforçando os básicos 🌱
+- Lógica de programação
+- C
+- HTML / Markdown
 
 
-<img src="https://i.pinimg.com/originals/ca/a2/4e/caa24ef9fd5581e70ffaa71d0a4d46f6.gif"
-style="width:265px;height:260px;">
-<img src="https://i.pinimg.com/originals/a0/dc/5f/a0dc5f8fc33cd8fd01d26c8f203d0b1c.gif"
-style="width:265px;height:260px;">
-<img src="https://i.pinimg.com/originals/d7/f7/b4/d7f7b412e83188359a9e40dbebfbce3d.gif"
-style="width:265px;height:260px;">
+ 💻 Cursando 💻 
+
+- Análise e Desenvolvimento de Sistemas - Unifatecie 
+- Introduction to Computer Science - HarvardX CS50x
+
+Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
 
-<!--
-**oFlik/oFlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
