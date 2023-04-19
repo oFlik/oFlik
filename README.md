@@ -9,6 +9,7 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - Lógica de programação
 - C
 - HTML / Markdown
+- SQL
 
  💻 Cursando 💻 
 
