@@ -10,7 +10,6 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - C
 - HTML / Markdown
 
-
  💻 Cursando 💻 
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
