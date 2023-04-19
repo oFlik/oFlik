@@ -1,6 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" width="1200"/>
-</div>
+
+<img src="https://i.pinimg.com/originals/ca/a2/4e/caa24ef9fd5581e70ffaa71d0a4d46f6.gif"
+style="width:300px;height:300px;">
+<img src="https://i.pinimg.com/originals/a0/dc/5f/a0dc5f8fc33cd8fd01d26c8f203d0b1c.gif"
+style="width:300px;height:300px;">
+<img src="https://i.pinimg.com/originals/d7/f7/b4/d7f7b412e83188359a9e40dbebfbce3d.gif"
+style="width:300px;height:300px;scaleX(-1);">
 
 
 <!--
