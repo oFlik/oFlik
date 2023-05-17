@@ -9,7 +9,6 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - C
 - Python
 - SQL
-- HTML / Markdown
 
  💻 Cursando 💻 
 
