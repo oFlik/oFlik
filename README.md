@@ -17,4 +17,4 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
-Fazendo a mudança para apareceer em minha tabe
+Fazendo a mudança para apareceer em minha tab
