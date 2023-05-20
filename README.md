@@ -17,4 +17,4 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
-Enfim, sinta-se a vonta
+Enfim, sinta-se a vo
