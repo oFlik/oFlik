@@ -18,5 +18,6 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?oFlik=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFlik)](https://github.com/anuraghazra/github-readme-stats)
+
 
