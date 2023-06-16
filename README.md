@@ -3,7 +3,7 @@
 
 Ainda estou no começo de minha caminhada na programação, por isso ainda está meio vazio por aqui, mas acredito que com o tempo esta pagina irá ficar bem populada! (Espero)
 
-<img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:25%">
+<img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
 
 🌱 No momento estou aprendendo e reforçando os básicos 🌱
 - C
@@ -17,7 +17,3 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - Introduction to Computer Science - HarvardX CS50x
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFlik)](https://github.com/anuraghazra/github-readme-stats)
-
-
