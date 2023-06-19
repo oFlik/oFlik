@@ -17,7 +17,3 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - Introduction to Computer Science - HarvardX CS50x
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oflik&show_icons=true&locale=en&layout=compact" alt="oflik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oflik&" alt="oflik" /></p>
