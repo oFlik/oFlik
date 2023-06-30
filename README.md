@@ -17,3 +17,5 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 - Introduction to Computer Science - HarvardX CS50x
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
