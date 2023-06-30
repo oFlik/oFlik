@@ -18,4 +18,4 @@ Ainda estou no começo de minha caminhada na programação, por isso ainda está
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&hide_progress=true&theme=transparent)
