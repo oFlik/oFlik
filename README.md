@@ -14,8 +14,7 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
  💻 Cursando 💻 
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
-- Introduction to Computer Science - HarvardX CS50x
--  Desenvolvimento de Software com foco em Back-end - Cubos Academy
+- Desenvolvimento de Software com foco em Back-end - Cubos Academy
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
