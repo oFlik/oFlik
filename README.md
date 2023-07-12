@@ -18,4 +18,4 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
 
 Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&hide_progress=true&theme=transparent&hide=PowerShell,C%2B%2B)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&hide_progress=true&theme=transparent&hide=PowerShell,C%2B%2B,Assembly)
