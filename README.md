@@ -10,7 +10,6 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
 - Python
 - SQL
 - HTML / CSS / JS
-
  💻 Cursando 💻 
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
