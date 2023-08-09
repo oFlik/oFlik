@@ -10,7 +10,7 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
 - JavaScript
 - Python
 - SQL
-- HTML && CSS
+- HTML | CSS
   
  💻 Cursando 💻 
 
