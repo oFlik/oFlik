@@ -7,9 +7,11 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
 
 🌱 Habilidades 🌱
 - C
+- JavaScript
 - Python
 - SQL
-- HTML / CSS / JS
+- HTML
+- CSS
   
  💻 Cursando 💻 
 
