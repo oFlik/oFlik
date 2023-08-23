@@ -1,7 +1,7 @@
 # Hello world! 👋
 ### Fico feliz em te ver por aqui! 
 
-#### Desenvolvedor Backend com foco em desenvolvimento web!
+#### Desenvolvedor Backend com foco em desenvolvimento web
 
 <img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
 
