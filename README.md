@@ -14,7 +14,7 @@ Desenvolvedor Júnior em busca da primeira oportunidade no mercado de programaç
 
 🌱 Tecnologias 🌱
 - Node.js
-- Flas
+- Flask
 - React
 - Bootstrap
   
