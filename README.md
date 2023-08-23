@@ -11,12 +11,6 @@
 - Conhecimentos em C
 - Banco de dados SQL
 - HTML | CSS
-
-🌱 Tecnologias 🌱
-- Node.js
-- Flask
-- React
-- Bootstrap
   
  💻 Cursando 💻 
 
