@@ -7,7 +7,7 @@
 
 🌱 Linguagens 🌱
 - JavaScript 
-- Python 
+- Python
 - Conhecimentos em C
 - Banco de dados SQL
 - HTML | CSS
