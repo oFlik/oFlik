@@ -17,5 +17,5 @@
 - Análise e Desenvolvimento de Sistemas - Unifatecie
 - Desenvolvimento de Software com foco em Back-end - Cubos Academy
 
-Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐  
+Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐 
 
