@@ -9,7 +9,7 @@
 - JavaScript
 - Python
 - Conhecimentos em C
-- Banco de dados SQL
+- MySQL | PostgreSQL, SQLite
 - HTML | CSS
   
  💻 Cursando 💻 
