@@ -10,7 +10,7 @@
 - Python
 - Conhecimentos em C
 - MySQL | PostgreSQL, SQLite
-- HTML | CSS
+- HTML | CSS 
   
  💻 Cursando 💻 
 
