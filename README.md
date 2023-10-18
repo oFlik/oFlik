@@ -8,7 +8,7 @@
 🌱 Linguagens 🌱 
 - JavaScript 
 - Python  
-- Conhecimentos em C
+- Conhecimentos em C 
 - MySQL | PostgreSQL, SQLite
 - HTML | CSS 
   
