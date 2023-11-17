@@ -11,7 +11,7 @@
 - Conhecimentos em C 
 - MySQL | PostgreSQL, SQLite
 - HTML | CSS 
-  
+   
  💻 Cursando 💻 
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
