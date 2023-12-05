@@ -6,10 +6,10 @@
 <img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
  
 🌱 Linguagens 🌱 
-- JavaScript 
+- JavaScript
 - Python
 - Conhecimentos em C 
-- MySQL | PostgreSQL, SQLite
+- MySQL | PostgreSQL | SQLite
 - HTML | CSS 
    
  💻 Cursando 💻 
