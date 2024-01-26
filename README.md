@@ -12,7 +12,7 @@
 - MySQL | PostgreSQL | SQLite
 - HTML | CSS 
    
- 💻 Cursando 💻 
+ 💻 Cursando 💻  
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
 - Desenvolvimento de Software com foco em Back-end - Cubos Academy
