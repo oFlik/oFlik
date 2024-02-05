@@ -5,17 +5,19 @@
 
 <img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
   
-🌱 Linguagens 🌱 
+🌱 Habilidades 🌱 
 - JavaScript 
 - Python
 - Conhecimentos em C 
-- MySQL | PostgreSQL | SQLite
-- HTML | CSS 
-   
- 💻 Cursando 💻  
+- MySQL | PostgreSQL | SQLite | MongoDB
+- HTML | CSS
+- Entre outras
+
+ 💻 Experiências acadêmicas 💻  
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
 - Desenvolvimento de Software com foco em Back-end - Cubos Academy
+- CS50x: Introduction to Computer Science - HarvardX
 
-Enfim, sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐 
+Sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐 
 
