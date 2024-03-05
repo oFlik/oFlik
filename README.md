@@ -8,7 +8,7 @@
 🌱 Habilidades 🌱 
 - JavaScript 
 - Python
-- Conhecimentos em C 
+- C 
 - MySQL | PostgreSQL | SQLite | MongoDB
 - HTML | CSS
 - Entre outras
