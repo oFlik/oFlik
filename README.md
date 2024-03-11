@@ -21,4 +21,4 @@
 
 Sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&layout=compact&bg_color=1c1e1f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&layout=compact&bg_color=0d1117&text_color=ffffff)
