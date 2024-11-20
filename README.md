@@ -1,18 +1,9 @@
-# Hello world! 👋 
-### Fico feliz em te ver por aqui!
- 
-#### Desenvolvedor de Software com foco em Backend  
+#### Desenvolvedor de Software
  
 <img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
-  
-🌱 Habilidades 🌱 
-- JavaScript 
-- Python
-- C 
-- MySQL | PostgreSQL | SQLite | MongoDB
-- HTML | CSS
-- Entre outras
 
+Atualmente atuando como Auxiliar de Gerenciamento de Sistemas na R. Damásio.
+  
  💻 Experiências acadêmicas 💻  
 
 - Análise e Desenvolvimento de Sistemas - Unifatecie 
