@@ -1,15 +1,9 @@
-#### Desenvolvedor de Software
- 
 <img align='right' src="https://i.pinimg.com/originals/45/40/cf/4540cfd8909197c2559dd30a7234f63e.gif" alt="Bat" style="width:30%">
 
-No momento atuo como Auxiliar de Gerenciamento de Sistemas na R. Damásio.
-  
- 💻 Experiências acadêmicas 💻  
+### Olá, eu sou o Thiago 👋
 
-- Análise e Desenvolvimento de Sistemas - Unifatecie 
-- Desenvolvimento de Software com foco em Back-end - Cubos Academy
-- CS50x: Introduction to Computer Science - HarvardX
+Sou desenvolvedor de software com experiência como Product Owner e em gerenciamento de sistemas. Gosto de entender como as pessoas trabalham, identificar o que pode melhorar e transformar essas necessidades em soluções.
 
-Sinta-se a vontade para entrar em contato, estou disponível 24/7 🧐 
+Tenho formação em desenvolvimento back-end pela Cubos Academy e conhecimentos em Python, JavaScript, Flask, Node.js e SQL. Minha experiência combina desenvolvimento, visão de produto e contato com usuários.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oFlik&layout=compact&bg_color=0d1117&text_color=ffffff)
+Estou em busca de oportunidades em que possa contribuir com essa bagagem, aprender com o time e participar da construção de produtos úteis.
